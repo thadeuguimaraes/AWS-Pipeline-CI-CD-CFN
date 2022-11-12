@@ -1,0 +1,3 @@
+# Porjeto Pipeline AWS IaC Cloudformation Ci/CD (Infraestrutura com código )
+
+### Nesse projeto foi desenvolvido um script yml em ambiente de Test & Production para criar uma Pipeline usando o recurso da AWS Cloudfomation,SNS,IAM,VPC para provisionar na cloud AWS o CI/CD com os stages Production: ChangeSet,Appoval,DeployProduction.gerando notificações para aprovar os estágios através de e-mails enviado pela AWS.
